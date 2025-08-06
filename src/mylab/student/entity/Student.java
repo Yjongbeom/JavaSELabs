@@ -38,7 +38,7 @@ public class Student {
 		}
 		else
 		{
-			System.out.println("ÇĞ³âÀº 1~4 »çÀÌ¿©¾ß ÇÕ´Ï´Ù.");
+			System.out.println("í•™ë…„ì€ 1~4 ì‚¬ì´ì—¬ì•¼í•©ë‹ˆë‹¤.");
 		}
 	}
 	
