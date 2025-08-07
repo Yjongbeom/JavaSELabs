@@ -12,7 +12,7 @@ public class Student {
 		this.studentId = studentId;
 		this.name = name;
 		this.major = major;
-		this.grade = grade;
+		setGrade(grade);
 	}
 	
 	public String getStudentId() {
@@ -38,7 +38,7 @@ public class Student {
 		}
 		else
 		{
-			System.out.println("í•™ë…„ì€ 1~4 ì‚¬ì´ì—¬ì•¼í•©ë‹ˆë‹¤.");
+			System.out.println("ÇĞ³âÀº 1~4 »çÀÌ¿©¾ßÇÕ´Ï´Ù.");
 		}
 	}
 	
